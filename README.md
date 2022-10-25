@@ -8,7 +8,7 @@ This is an ecommerce app which contain Many features like :
 
 Developed using Dart & Flutter & Rest Api & Dio & Bloc & SharedPref.
 
-URL for Video that show the App https://www.linkedin.com/posts/mohamed-hashim-3b2ab2235_flutter-mobileappdevelopment-uiuxdesign-activity-6974802779345154048-jJYT?utm_source=share&utm_medium=member_desktop
+URL for Video that show the App https://mostaql.com/portfolio/1120980
 
 ![image](https://user-images.githubusercontent.com/101535118/189479935-46d56529-4672-4248-b2f3-6d6d57f5416e.png)
 ![image](https://user-images.githubusercontent.com/101535118/189479950-e63c888c-b548-4245-b311-c4669d5d4700.png)
