@@ -1,3 +1,4 @@
+# Eraa store Application
 
 This is an ecommerce app which contain Many features like : 
 1. Sign in , Sign up , Verify Email , log out.
@@ -10,7 +11,7 @@ Developed using Dart & Flutter & Rest Api & Dio & Bloc & SharedPref.
 
 URL for Video that show the App https://mostaql.com/portfolio/1120980
 
-Photo from The App
+# Photo that cover The Application
 
 ![splash_screen](https://user-images.githubusercontent.com/101535118/197812752-0acf1f9b-9255-4642-b6be-cdab2b553f40.png)
 
