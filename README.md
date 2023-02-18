@@ -1,5 +1,4 @@
 Eraa store Application
-
 This is an ecommerce app which contain Many features like : 
 1. Sign in , Sign up , Verify Email , log out.
 2. Fetch Products Data
